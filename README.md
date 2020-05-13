@@ -21,4 +21,5 @@ Modern C++ ise , C++11 yani 2011 yılında yayınlanan C++ sürümü ile gelmiş
  - [ ] C++, giriş ve Veri Tipleri.
  - [ ] C++, değişken tanımlama ve basit değişken işlemleri.
  - [ ] C++, fonksiyonlar ve matematiksel işlemler.
- - [ ] C++, 
+ 
+ 
