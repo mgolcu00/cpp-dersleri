@@ -12,7 +12,7 @@ Modern C++ ise , C++11 yani 2011 yılında yayınlanan C++ sürümü ile gelmiş
 
 ## Gereksinimler
 
-- Derleyici olarak MinGW kullanacağız, kurulumuna buradan ulaşabilirsiniz.
+- Derleyici olarak MinGW kullanacağız, kurulumuna [buradan](https://github.com/mgolcu00/cpp-dersleri/tree/master/MinGwKurulum) ulaşabilirsiniz.
 - Geliştirme ortamı olarak Visual Studio Code Kullanacağız.
 
 
